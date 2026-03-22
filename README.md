@@ -49,22 +49,15 @@
 ⚙️ Tech: Python, Pandas, Scikit-learn  
 🔗 https://github.com/HansikaDulanjani/Titanic_Survival  
 
----
-
-### 🔹 Movie Recommendation System  
-🎬 Recommends movies using collaborative filtering  
-⚙️ Tech: Python, Pandas, NumPy  
-🔗 https://github.com/HansikaDulanjani/Movie_Recommendation  
+### 🔹 Comming soon...
 
 ---
+## Free certificate courses and academic records
+- Collection of my certifications(free/paid) and academic results.
 
-### 🔹 COVID-19 Dashboard  
-📈 Interactive dashboard using Streamlit  
-⚙️ Tech: Python, Pandas, Streamlit  
-🔗 https://github.com/HansikaDulanjani/COVID19_Dashboard  
+ **View Here:**  [Google Drive Folder](https://drive.google.com/drive/folders/10tY3B37jq8NIa-v50gHeX8CmC15rl0hE?usp=sharing)
 
 ---
-
 ## GitHub Stats  
 
 <p align="center">
