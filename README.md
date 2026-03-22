@@ -14,6 +14,21 @@
 </p>
 
 ---
+## Career Objective  
+
+Aspiring **Data Analyst / Business Analyst / System Analyst** with a strong foundation in data analysis, problem-solving, and software development.  
+
+Passionate about:
+- Turning data into actionable insights  
+- Business decision-making using data  
+- Building real-world data-driven solutions  
+
+Actively seeking **internships and entry-level opportunities** in:
+- Data Analysis  
+- Business Analysis  
+- IT / System-related roles  
+
+---
 <p align="center">
   <a href="mailto:hansikadulanjani223@gmail.com">
     <img src="https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
